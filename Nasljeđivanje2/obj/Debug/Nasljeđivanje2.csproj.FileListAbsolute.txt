@@ -1,0 +1,8 @@
+C:\Users\heist\Documents\Code\Nasljeđivanje2\bin\Debug\Nasljeđivanje2.exe.config
+C:\Users\heist\Documents\Code\Nasljeđivanje2\bin\Debug\Nasljeđivanje2.exe
+C:\Users\heist\Documents\Code\Nasljeđivanje2\bin\Debug\Nasljeđivanje2.pdb
+C:\Users\heist\Documents\Code\Nasljeđivanje2\obj\Debug\Nasljeđivanje2.csproj.AssemblyReference.cache
+C:\Users\heist\Documents\Code\Nasljeđivanje2\obj\Debug\Nasljeđivanje2.csproj.SuggestedBindingRedirects.cache
+C:\Users\heist\Documents\Code\Nasljeđivanje2\obj\Debug\Nasljeđivanje2.csproj.CoreCompileInputs.cache
+C:\Users\heist\Documents\Code\Nasljeđivanje2\obj\Debug\Nasljeđivanje2.exe
+C:\Users\heist\Documents\Code\Nasljeđivanje2\obj\Debug\Nasljeđivanje2.pdb
